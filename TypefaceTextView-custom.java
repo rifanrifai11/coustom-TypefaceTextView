@@ -20,6 +20,9 @@ import cully.goku.britech.com.cullymerchant.R.styleable;
  */
 public class TypefaceTextView extends TextView {
 
+
+    //contoh//
+
     /*
      * Caches typefaces based on their file path and name, so that they don't have to be created
      * every time when they are referenced.
